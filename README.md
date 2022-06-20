@@ -15,6 +15,6 @@
 * Una API restful para gestionar el recurso “item” sobre una base de datos. (Diseño Openapi 3)
 * Una App para gestionar desde el backend el recurso item implementando la API.
 	
-##20/11/2022
+## 20/11/2022
 	
 * Se agrega archivo .json  para probar endpoints desde postman
